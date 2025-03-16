@@ -69,6 +69,7 @@
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
 - [kamil](https://github.com/Kamil115853)
+- [Maleesha Dinujaya](https://github.com/Maleesha-Dinujaya)
 - [AdiSaikat](https://github.com/adisaikat)
 - [Arman Yadav](https://github.com/armaaan-yadav)
 - [Raul Alejandro Ledea Cruz](https://github.com/Raulledea)
